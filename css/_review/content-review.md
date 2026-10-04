@@ -9,3 +9,9 @@ Nothing below is final until marked APPROVED.
 - [ ] About page wording
 - [ ] Image permissions and attributions
 - [ ] Remove the "noindex" line before launch
+- [ ] Figures page: introductory wording ("Ten Figures" paragraph)
+- [ ] Figure cards: dates and short descriptions (currently blank)
+- [ ] Profile pages: section headings and structure for each figure
+- [ ] About page: confirm every statement is accurate and in your own words
+- [ ] Confirm your name appears only on the About page
+- [ ] In js/figures-data.js, change "reviewed: false" to "reviewed: true" only after you approve a figure
